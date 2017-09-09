@@ -37,7 +37,6 @@ public class SVProgressHUD {
         ClearCancel,     // 不允许遮罩下面控件点击，点击遮罩消失
         BlackCancel,     // 不允许遮罩下面控件点击，背景黑色半透明，点击遮罩消失
         GradientCancel   // 不允许遮罩下面控件点击，背景渐变半透明，点击遮罩消失
-        ;
     }
 
     private final FrameLayout.LayoutParams params = new FrameLayout.LayoutParams(
